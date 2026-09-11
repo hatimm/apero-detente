@@ -1,0 +1,194 @@
+/* scrollbar */
+
+::-webkit-scrollbar {
+    width: 10px;
+    background: #b50a2a;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #ff7700;
+    transition: 400ms;
+
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #ffab2c;
+    transition: 400ms;
+}
+
+/*
+=====================================================
+------------------- FOR MOBILE ----------------------
+=====================================================
+*/
+/* ----------INDEX---------- */
+
+@media screen and (max-width: 768px) {
+
+    .btn-dec {
+        margin: auto;
+        padding: 10px 0 30px 0;
+        width: 300px;
+        padding: 10px 0 0 0;
+    }
+
+    .img-top img {
+        z-index: -1;
+        width: 15em;
+        display: flex;
+        float: inherit;
+        margin: inherit;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .content-top h3 {
+        text-align: center;
+        margin-top: 1rem;
+        float: inherit;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 15em;
+    }
+
+    .text-col p {
+        text-align: center;
+        padding: 10px 0px 10px 0px;
+    }
+
+    .content-1 img {
+        margin-bottom: 20px;
+        margin-top: inherit;
+        display: block;
+        margin-left: auto;
+        margin-right: auto
+    }
+
+    .col-left {
+        padding: 20px 0 0 0;
+        left: 0%;
+        margin-left: auto;
+        margin-right: auto;
+        width: 350px !important;
+    }
+
+    .col-right {
+        margin-left: auto;
+        margin-right: auto;
+        width: 350px !important;
+        margin-bottom: 20px;
+    }
+
+    .bloc-adresse {
+        transform: translateX(0%);
+    }
+
+    header {
+        height: 120px;
+    }
+
+    header img {
+        position: relative;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .menu {
+        z-index: 22;
+        position: absolute;
+        top: -5px;
+        right: inherit;
+        left: 50%;
+        transform: translateX(23%);
+    }
+
+    .btn-phone-top {
+        z-index: 2;
+        position: absolute;
+        top: -5px;
+        right: inherit;
+        left: 50% !important;
+        transform: translateX(-90%) !important;
+    }
+
+    .bord-maps {
+        margin: 0 0 0 0;
+        transform: translateX(0%);
+    }
+
+    .btn-com {
+        padding: 6px 2px 6px 2px;
+    }
+
+}
+
+/* ----------ALL---------- */
+
+
+@media screen and (max-width: 768px) {
+
+    .navigation.isOpen {
+        position: fixed;
+        right: 20%;
+    }
+
+    .navigation {
+        right: 20%;
+        top: 130px;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .navigation.isOpen {
+        position: fixed;
+        right: 12%;
+    }
+
+    .navigation {
+        right: 12%;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+
+    .navigation.isOpen {
+        position: fixed;
+        right: 10%;
+    }
+
+    .navigation {
+        right: 10%;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+
+    .navigation.isOpen {
+        position: fixed;
+        right: 18%;
+    }
+
+    .navigation {
+        right: 18%;
+    }
+}
+
+@media screen and (min-width: 1550px) {
+
+    .navigation.isOpen {
+        position: fixed;
+        right: 22%;
+    }
+
+    .navigation {
+        right: 22%;
+    }
+}
+
+/* -----inherit------ */
+
+.btn-phone-top {
+    left: inherit;
+    transform: inherit;
+}

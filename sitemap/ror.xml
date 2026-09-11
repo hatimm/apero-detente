@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://apero-detente.fr/</title>
+  <link>https://apero-detente.fr/</link>
+
+<item>
+     <link>https://apero-detente.fr/</link>
+     <title>Apero-Detente - Accueil</title>
+     <description>Apéro-Détente vous propose la livraison d'un grand choix de boissons alcoolisées ou non, d'encas ou snack chaud ou froid, 7j/7 de 20h à 6h ...</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://apero-detente.fr/Alcools.html</link>
+     <title>Apero-Detente</title>
+     <description>Apero-Detente</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://apero-detente.fr/Vins.html</link>
+     <title>Apero-Detente</title>
+     <description>Apero-Detente</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://apero-detente.fr/Champagnes.html</link>
+     <title>Apero-Detente</title>
+     <description>Apero-Detente</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://apero-detente.fr/Bi%C3%A8res.html</link>
+     <title>Apero-Detente</title>
+     <description>Apero-Detente</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://apero-detente.fr/Ap%C3%A9ritifs.html</link>
+     <title>Apero-Detente</title>
+     <description>Apero-Detente</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://apero-detente.fr/Sans%20alcools.html</link>
+     <title>Apero-Detente</title>
+     <description>Apero-Detente</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://apero-detente.fr/catalogue.html</link>
+     <title>Apero-Detente - Catalogue</title>
+     <description>Apero-Detente - Catalogue</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://apero-detente.fr/Digestifs.html</link>
+     <title>Apero-Detente</title>
+     <description>Apero-Detente</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://apero-detente.fr/Packs.html</link>
+     <title>Apero-Detente</title>
+     <description>Apero-Detente</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://apero-detente.fr/A%20d%C3%A9couvrir.html</link>
+     <title>Apero-Detente</title>
+     <description>Apero-Detente</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://apero-detente.fr/Snacks%20Encas.html</link>
+     <title>Apero-Detente</title>
+     <description>Apero-Detente</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://apero-detente.fr/index.html</link>
+     <title>Apero-Detente - Accueil</title>
+     <description>Apéro-Détente vous propose la livraison d'un grand choix de boissons alcoolisées ou non, d'encas ou snack chaud ou froid, 7j/7 de 20h à 6h ...</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://apero-detente.fr/Divers.html</link>
+     <title>Apero-Detente</title>
+     <description>Apero-Detente</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  

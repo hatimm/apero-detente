@@ -1,0 +1,67 @@
+/* PACK */
+
+.card-1:hover .card-images-pack {
+    opacity: 0;
+}
+
+.card-1:hover .price {
+    opacity: 0;
+}
+
+.card-1:hover .card-title {
+    opacity: 0;
+}
+
+.list-pack {
+    opacity: 0;
+    transition: 300ms;
+    text-align: center;
+    list-style-type: none;
+}
+
+.card-1:hover .list-pack {
+    opacity: 1;
+    transition: 300ms;
+}
+
+.card-images-pack {
+    border-radius: 10px;
+    position: absolute;
+    inset: 0;
+    height: 70%;
+    width: 10em;
+    object-fit: cover;
+    transition: 500ms;
+    margin: 8px 18px;
+}
+
+.card-1 {
+    border: solid 2px #0000001f;
+    margin: 5px 10px;
+    display: inline-block;
+    width: 200px;
+    height: 220px;
+    background-color: #3333333d;
+    border-radius: 15px;
+    position: relative;
+}
+
+.card-1 .price {
+    font-size: 18px;
+    color: #ffeb00;
+    position: absolute;
+    bottom: -11px;
+    left: 72px;
+    transition: 500ms;
+}
+
+.list-pack {
+    margin: 15px 0;
+}
+
+.list-pack p {
+    color: aliceblue;
+    padding: 5px 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
