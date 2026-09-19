@@ -3,12 +3,12 @@
 
   var style = document.createElement("style");
   style.textContent =
-    "#whatsapp-float{position:fixed;bottom:20px;right:20px;width:56px;height:56px;" +
+    "#whatsapp-float{position:fixed;bottom:95px;right:20px;width:56px;height:56px;" +
     "background:#25D366;border-radius:50%;display:flex;align-items:center;justify-content:center;" +
     "box-shadow:0 5px 15px rgba(0,0,0,.35);z-index:999;transition:transform .2s;}" +
     "#whatsapp-float:hover{transform:scale(1.08);}" +
     "#whatsapp-float svg{width:30px;height:30px;fill:#fff;}" +
-    "@media (max-width:480px){#whatsapp-float{width:50px;height:50px;bottom:15px;right:15px;}" +
+    "@media (max-width:480px){#whatsapp-float{width:50px;height:50px;bottom:90px;right:15px;}" +
     "#whatsapp-float svg{width:26px;height:26px;}}";
   document.head.appendChild(style);
 
